@@ -141,6 +141,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 
 ---
 
-**Polityka prywatności** → [https://vonkrappitz.github.io/zoo-guide-policy/](https://vonkrappitz.github.io/zoo-guide-policy/)
+**Polityka prywatności/Privacy Policy** → [https://vonkrappitz.github.io/zoo-guide-policy/](https://vonkrappitz.github.io/zoo-guide-policy/)
 
 © 2026 Maciej Kasperek • Wszystkie prawa zastrzeżone
