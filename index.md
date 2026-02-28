@@ -10,7 +10,7 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 **[🇵🇱 PL](#pl)** • **[🇬🇧 EN](#en)** • **[🇨🇿 CZ](#cz)** • **[🇩🇪 DE](#de)** • **[🇺🇦 UK](#uk)** • **[🇪🇸 ES](#es)** • **[🇫🇷 FR](#fr)** • **[🇸🇰 SK](#sk)**
 ---
 
-<sup><sub>**Polityka prywatności/Privacy Policy** → [Link](./README.md)</sup></sub>
+<sup><sub>**Polityka prywatności/Privacy Policy**</sup></sub> → [Link](./README.md)
 ---
 
 ## <a id="pl"></a>🇵🇱 Polski
