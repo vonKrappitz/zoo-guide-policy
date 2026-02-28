@@ -28,7 +28,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 - Zoo Wrocław – Wróblewskiego 1-5
 
 **[Pobierz APK](https://github.com/vonkrappitz/zoo-guide/releases)**  
-**[Wypróbuj demo online](https://vonkrappitz.github.io/zoo-guide/www/)**
 
 ---
 
@@ -49,7 +48,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 - Wrocław Zoo – Wróblewskiego 1-5
 
 **[Download APK](https://github.com/vonkrappitz/zoo-guide/releases)**  
-**[Try online demo](https://vonkrappitz.github.io/zoo-guide/www/)**
 
 ---
 
@@ -65,7 +63,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 - Funguje **offline** • Android 8+
 
 **[Stáhnout APK](https://github.com/vonkrappitz/zoo-guide/releases)**  
-**[Vyzkoušet online](https://vonkrappitz.github.io/zoo-guide/www/)**
 
 ---
 
@@ -81,7 +78,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 - Funktioniert **offline** • Android 8+
 
 **[APK herunterladen](https://github.com/vonkrappitz/zoo-guide/releases)**  
-**[Online testen](https://vonkrappitz.github.io/zoo-guide/www/)**
 
 ---
 
@@ -97,7 +93,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 - Працює **офлайн** • Android 8+
 
 **[Завантажити APK](https://github.com/vonkrappitz/zoo-guide/releases)**  
-**[Спробувати онлайн](https://vonkrappitz.github.io/zoo-guide/www/)**
 
 ---
 
@@ -113,7 +108,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 - Funciona **sin conexión** • Android 8+
 
 **[Descargar APK](https://github.com/vonkrappitz/zoo-guide/releases)**  
-**[Probar online](https://vonkrappitz.github.io/zoo-guide/www/)**
 
 ---
 
@@ -129,7 +123,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 - Fonctionne **hors ligne** • Android 8+
 
 **[Télécharger l’APK](https://github.com/vonkrappitz/zoo-guide/releases)**  
-**[Essayer en ligne](https://vonkrappitz.github.io/zoo-guide/www/)**
 
 ---
 
@@ -145,7 +138,6 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 - Funguje **offline** • Android 8+
 
 **[Stiahnuť APK](https://github.com/vonkrappitz/zoo-guide/releases)**  
-**[Vyskúšať online](https://vonkrappitz.github.io/zoo-guide/www/)**
 
 ---
 
