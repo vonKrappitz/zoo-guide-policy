@@ -8,7 +8,9 @@ Alarmy karmień 15 min wcześniej • Przypomnienie o parkowaniu • Godziny, ce
 ### 🌍 Wybierz język / Choose language
 
 **[🇵🇱 PL](#pl)** • **[🇬🇧 EN](#en)** • **[🇨🇿 CZ](#cz)** • **[🇩🇪 DE](#de)** • **[🇺🇦 UK](#uk)** • **[🇪🇸 ES](#es)** • **[🇫🇷 FR](#fr)** • **[🇸🇰 SK](#sk)**
+---
 
+<sup><sub>**Polityka prywatności/Privacy Policy** → [https://vonkrappitz.github.io/zoo-guide-policy/](https://vonkrappitz.github.io/zoo-guide-policy/)</sup></sub>
 ---
 
 ## <a id="pl"></a>🇵🇱 Polski
